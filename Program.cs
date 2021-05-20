@@ -4,7 +4,7 @@ namespace Engin_Demirog_Dersleri
 {
     class Program
     {
-        /*static void Main(string[] args)   /// FOR DÖNGÜSÜ  
+        /*  ///  FOR DÖNGÜSÜ  
         {
             for (int i = 0; i <= 100; i++) 
             {
@@ -12,7 +12,7 @@ namespace Engin_Demirog_Dersleri
             }
             Console.ReadLine();
         }*/
-        /*static void Main(string[] args)   /// WHİLE
+        /*  ///  WHİLE
         {
             int number = 100;
             while (number > 0)
@@ -25,9 +25,29 @@ namespace Engin_Demirog_Dersleri
             Console.ReadLine();
 
         }*/
-        static void Main(string[] args)
+        /* ///  DO WHİLE
         {
-            
-        }
+            int number = 10;
+            do
+            {
+                Console.WriteLine(number);
+                number--;
+
+            } while (number >= 9);
+        }*/
+        /*  /// FOREACH
+          {
+            string[] studens = new string[3] {"ali", "veli", "mehmet"};
+            foreach (var student in studens)
+            {
+                Console.WriteLine(student);
+            }
+            Console.ReadLine();
+
+        }*/
+        static void Main(string[] args)
+
+
+
     }
 }

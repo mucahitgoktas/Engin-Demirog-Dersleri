@@ -11,3 +11,16 @@ C:\Users\pc\Documents\GitHub\Engin Demirog Dersleri\Engin Demirog Dersleri\obj\D
 C:\Users\pc\Documents\GitHub\Engin Demirog Dersleri\Engin Demirog Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.dll
 C:\Users\pc\Documents\GitHub\Engin Demirog Dersleri\Engin Demirog Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.pdb
 C:\Users\pc\Documents\GitHub\Engin Demirog Dersleri\Engin Demirog Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.exe
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.deps.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.dll
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\bin\Debug\netcoreapp3.1\Engin Demirog Dersleri.pdb
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.dll
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.pdb
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Engin Demirog Dersleri.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Channels;
 
 namespace Engin_Demirog_Dersleri
 {
@@ -35,7 +36,7 @@ namespace Engin_Demirog_Dersleri
 
             } while (number >= 9);
         }*/
-        /*  /// FOREACH
+        /*  ///  FOREACH
           {
             string[] studens = new string[3] {"ali", "veli", "mehmet"};
             foreach (var student in studens)
@@ -45,9 +46,39 @@ namespace Engin_Demirog_Dersleri
             Console.ReadLine();
 
         }*/
-        static void Main(string[] args)
+        static void Main(string[] args)  /// ÖRNEK ASAL SAYI UYGULAMASI
+        {
+
+            Console.Write("Bir Sayi Giriniz :");
+            int asalsayi = Convert.ToInt32(Console.ReadLine());
+            Asalsayimi(asalsayi);
+            Console.ReadLine();
+        }
+
+        private static bool Asalsayimi(int asalsayi)
+        {
+            bool sonuc = true;
+
+
+            if (asalsayi % 1 == 0)
+            {
+                sonuc = true;
+                Console.WriteLine("Asal Sayıdır :)");
+            }
+
+            else if (asalsayi % asalsayi == 0)
+            {
+                Console.WriteLine("Asal Sayıdır :)");
+            }
+            else
+            {
+                Console.WriteLine("Asal Sayı DEĞİLDİR!");
+            }
 
 
 
+
+            return sonuc;
+        }
     }
 }

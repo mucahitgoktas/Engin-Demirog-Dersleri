@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.Design;
 using System.Threading.Channels;
+using Microsoft.VisualBasic;
 
 namespace Engin_Demirog_Dersleri
 {
@@ -93,9 +94,33 @@ namespace Engin_Demirog_Dersleri
 
             return sonuc;
         }*/
+        /*  ///  STRİNG
+         {
+             string sentence = "My name is Mücahit Göktaş";
+             var result = sentence.Length; // cümledeki karakterlerin sayısını döndürür. (boşluklar da 1 karakter sayılır)
+             var result2 = sentence.Clone(); // cümleyi klonlar
+             bool result3 = sentence.EndsWith("ş"); // bu cümle "ş" ile bitiyor mu?
+             bool result4 = sentence.StartsWith("My name"); // bu cümle "My name" ile başlıyor mu?
+             var result5 = sentence.IndexOf("name"); // metinde başta başlayarak "My name" arar.
+             var result6 = sentence.LastIndexOf("m"); // metinde sondan başlayarak "m" arar.
+             var result7 = sentence.Insert(0,"Hello, "); // 0'ıncı karakterden itibaren metine ekleme yapar.
+             var result8 = sentence.Substring(3); // 3. karakterden sonrasını yazdırır. (name is...)
+             string result9 = sentence.Substring(11,7); // 11. karakterden sonraki 7 karakteri yazdırır. (Mücahit)
+             var result10 = sentence.ToLower(); // Bütün karakterleri küçük harfe çevirir.
+             var result11 = sentence.ToUpper(); // Bütün karakterleri büyük harfe çevirir.
+             var result12 = sentence.Replace(" ", "-"); // boşluk yerine "-" yazar.
+             var result13 = sentence.Remove(2); // 2. karakterden itibaren siler. Remove(2,5) 2' den itibaren 5 karakteri uçurur.
+
+
+
+             Console.WriteLine(result9);
+             Console.ReadLine();
+
+         }*/
+
         static void Main(string[] args)
         {
-
+            Console.ReadLine();
         }
     }
 }

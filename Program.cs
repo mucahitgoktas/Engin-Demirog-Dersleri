@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.Design;
 using System.Threading.Channels;
 
 namespace Engin_Demirog_Dersleri
@@ -46,39 +47,55 @@ namespace Engin_Demirog_Dersleri
             Console.ReadLine();
 
         }*/
-        static void Main(string[] args)  /// ÖRNEK ASAL SAYI UYGULAMASI
+        /*  /// ÖRNEK ASAL SAYI UYGULAMASI
         {
-
+            Console.WriteLine("****ASAL SAYI TESPİT ÖRNEĞİ*****");
             Console.Write("Bir Sayi Giriniz :");
             int asalsayi = Convert.ToInt32(Console.ReadLine());
-            Asalsayimi(asalsayi);
+
+            
+            if (Asalsayimi(asalsayi))
+            {
+                Console.WriteLine($"{asalsayi} Asal Sayıdır :))");
+            }
+            else
+            {
+                Console.WriteLine($"{asalsayi} Asal Sayı Değildir!!!");       
+            } 
+            
             Console.ReadLine();
         }
+
 
         private static bool Asalsayimi(int asalsayi)
         {
             bool sonuc = true;
 
+            for (int i = 2; i < asalsayi-1; i++)
+            {
+                if (asalsayi % i == 0)
+                {
+                    sonuc = false;
+                    i = asalsayi;
 
-            if (asalsayi % 1 == 0)
-            {
-                sonuc = true;
-                Console.WriteLine("Asal Sayıdır :)");
+                }
+                else
+                {
+                    sonuc = true;
+                    
+
+                }
             }
 
-            else if (asalsayi % asalsayi == 0)
-            {
-                Console.WriteLine("Asal Sayıdır :)");
-            }
-            else
-            {
-                Console.WriteLine("Asal Sayı DEĞİLDİR!");
-            }
 
 
 
 
             return sonuc;
+        }*/
+        static void Main(string[] args)
+        {
+
         }
     }
 }

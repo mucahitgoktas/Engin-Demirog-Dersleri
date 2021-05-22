@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Engin Demirog Dersleri/1.0.0": {
+      "VirtualMethods/1.0.0": {
         "runtime": {
-          "Engin Demirog Dersleri.dll": {}
+          "VirtualMethods.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Engin Demirog Dersleri/1.0.0": {
+    "VirtualMethods/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

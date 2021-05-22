@@ -1,0 +1,4 @@
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Temel Dersler.csprojAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Temel Dersler.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Temel Dersler.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\obj\Debug\netcoreapp3.1\Temel Dersler.csproj.CoreCompileInputs.cache

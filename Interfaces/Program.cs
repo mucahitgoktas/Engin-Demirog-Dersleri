@@ -7,52 +7,66 @@ namespace Interfaces
         static void Main(string[] args)
         {
 
+            OracleCustomerDal.CustomerManager customerManager = new OracleCustomerDal.CustomerManager();
+            // demo(customerManager);
+            ICustomerDal[] customerDals = new ICustomerDal[3]
+            {
+                new SqlServerCustomerDal(),
+                new OracleCustomerDal(),
+                new OracleCustomerDal.MysqlServerCustomerDal(),
 
+            };
+
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+            }
 
             Console.ReadLine();
 
 
         }
-        interface IPerson
+
+        private static void demo(OracleCustomerDal.CustomerManager customerManager)
         {
-            int Id { get; set; }
-            string FirstName { get; set; }
-            string LastName { get; set; }
+            customerManager.Add(new OracleCustomerDal()); // interface'den çekilen class özellikleri.
+            customerManager.Add(new SqlServerCustomerDal()); // interface'den çekilen class özellikleri.
         }
 
-        class Customer : IPerson
+        interface IPerson   // I ile başlar
         {
-            public int Id { get; set; }
+            int ID { get; set; }  /// prop ile açılır ancak "public" almaz.
+            String FirstName { get; set; }
+            String LastName { get; set; }
+
+        }
+
+        class Customer : IPerson  // Ampulden implemente edilir ve Interface içindeki tüm tanımları (public dahil) içeri çeker."İNTERFACE'LER CLASSLARIN ÜST ÇATILARIDIR VE METOTLARA VERİLEBİLİRLER.
+        {
+            public int ID { get; set; }
             public string FirstName { get; set; }
             public string LastName { get; set; }
 
-            public string Address { get; set; }
+            public string Adress { get; set; } // classın amacına göre class'a özel yeni tanımlamalar eklenebilir.
         }
 
         class Student : IPerson
         {
-            public int Id { get; set; }
+            public int ID { get; set; }
             public string FirstName { get; set; }
             public string LastName { get; set; }
 
-            public string Departmant { get; set; }
-        }
-
-        class Worker : IPerson
-        {
-            public int Id { get; set; }
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-
-            public string Departmant { get; set; }
+            public int SinifNo { get; set; }
         }
 
         class PersonManager
         {
+
             public void Add(IPerson person)
             {
                 Console.WriteLine(person.FirstName);
             }
+
         }
 
     }

@@ -1,0 +1,12 @@
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.exe
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.deps.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\bin\Debug\netcoreapp3.1\Temel_Dersler.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Temel_Dersler\obj\Debug\netcoreapp3.1\Temel_Dersler.genruntimeconfig.cache

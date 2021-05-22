@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Temel_Dersler/1.0.0": {
+        "runtime": {
+          "Temel_Dersler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temel_Dersler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

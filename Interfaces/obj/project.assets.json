@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\Engin Demirog Dersleri.csproj",
-      "projectName": "Engin Demirog Dersleri",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\Engin Demirog Dersleri.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\Interfaces\\Interfaces.csproj",
+      "projectName": "Interfaces",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

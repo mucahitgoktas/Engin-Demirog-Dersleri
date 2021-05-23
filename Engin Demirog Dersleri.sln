@@ -9,15 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{04F37E1C-B38A-401F-BB83-263DA58ED121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temel_Dersler", "Temel_Dersler\Temel_Dersler.csproj", "{542BC241-C06B-4244-8428-D1E0E0F3F5D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temel_Dersler", "Temel_Dersler\Temel_Dersler.csproj", "{542BC241-C06B-4244-8428-D1E0E0F3F5D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{518C175A-3289-4386-A0BC-CA6002B41A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{518C175A-3289-4386-A0BC-CA6002B41A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4C35A0F2-1E03-4AC6-92AB-00F670AB3747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4C35A0F2-1E03-4AC6-92AB-00F670AB3747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{9C0914F7-6D01-49D9-8A99-3AC60F6F7CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{9C0914F7-6D01-49D9-8A99-3AC60F6F7CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "Abstract\Abstract.csproj", "{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{9979A313-6D58-4313-8CE6-B704342E350D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{7EAE6069-4386-4DB2-9A47-0221931190AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9979A313-6D58-4313-8CE6-B704342E350D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9979A313-6D58-4313-8CE6-B704342E350D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9979A313-6D58-4313-8CE6-B704342E350D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9979A313-6D58-4313-8CE6-B704342E350D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

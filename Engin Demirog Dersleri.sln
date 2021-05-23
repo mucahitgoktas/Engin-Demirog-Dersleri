@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMethods", "VirtualMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "Abstract\Abstract.csproj", "{117B2B9B-DBCB-4CDD-8B5E-4B3B11F0A7F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{9979A313-6D58-4313-8CE6-B704342E350D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{9979A313-6D58-4313-8CE6-B704342E350D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{7EAE6069-4386-4DB2-9A47-0221931190AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{7EAE6069-4386-4DB2-9A47-0221931190AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{8CF2CD1B-5F8A-4060-93BB-2B59E3EE449C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EAE6069-4386-4DB2-9A47-0221931190AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF2CD1B-5F8A-4060-93BB-2B59E3EE449C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF2CD1B-5F8A-4060-93BB-2B59E3EE449C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF2CD1B-5F8A-4060-93BB-2B59E3EE449C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF2CD1B-5F8A-4060-93BB-2B59E3EE449C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

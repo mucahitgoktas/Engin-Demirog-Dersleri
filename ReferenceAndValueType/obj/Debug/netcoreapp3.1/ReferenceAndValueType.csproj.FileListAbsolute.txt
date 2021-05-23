@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.exe
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.deps.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+C:\Users\Lenovo\Documents\GitHub\Engin-Demirog-Dersleri\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.genruntimeconfig.cache

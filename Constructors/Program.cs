@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Constructors
 {
@@ -21,6 +23,8 @@ namespace Constructors
             personManager.Add();
             
             DoSomeThing.VersionNumber(); // static nesneden gelen bilgi.
+
+            
 
 
             Console.ReadLine();

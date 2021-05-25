@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\Engin-Demirog-Dersleri\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache

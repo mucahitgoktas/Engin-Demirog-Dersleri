@@ -12,7 +12,7 @@ namespace Abstract
         }
     }
 
-    // abstracktlar inheritens özelliği taşır ancak, virtual methodlar gibi bazı özel durumlar için kullanılır. 
+    // abstracktlar inheritance özelliği taşır ancak, virtual methodlar gibi bazı özel durumlar için kullanılır. 
     // örneğin bir metot(add) her class için aynıysa ancak (Delete) her metot için farklı olacaksa, abstractlardan yararlanılır.
 
 

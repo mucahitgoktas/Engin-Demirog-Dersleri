@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Delegates // "Elçiler" yorum katmadan bilgi aktarırlar.
 {
     public delegate void MyDelegate(); // void olduğu için void nesnelerle çalışır.
-    public delegate void MyDelegate2(string text);
+    public delegate void MyDelegate2(string text); // parametre alan void Delegate. 
 
-    public delegate int MyDelegate3(int number1, int number2);
+    public delegate int MyDelegate3(int number1, int number2); // int döndüren Delegate.
 
     class Program
     {
@@ -19,36 +19,42 @@ namespace Delegates // "Elçiler" yorum katmadan bilgi aktarırlar.
             //customerManager.SendMessage();
             //customerManager.ShowAlert();
 
-            MyDelegate myDelegate = customerManager.SendMessage;
-            myDelegate += customerManager.ShowAlert;
+            MyDelegate myDelegate = customerManager.SendMessage; // Delegenin SendMessage görevi tanıtılır.
+            myDelegate += customerManager.ShowAlert; // Delegenin ikinci operasyonu tanıtılır "+=" kullanılarak.
 
-            myDelegate -= customerManager.SendMessage;
+            myDelegate -= customerManager.SendMessage; // Send message görevi iptal/çıkarılır "-=" kullanılarak.
 
             MyDelegate2 myDelegate2 = customerManager.SendMessage2;
             myDelegate2 += customerManager.ShowAlert2;
 
-            Matematik matematik = new Matematik();
-            MyDelegate3 myDelegate3 = matematik.Topla;
-            myDelegate3 += matematik.Carp;
+            Matematik matematik = new Matematik(); // metematik instance'ı nesnesi tanıtıldı.
+            MyDelegate3 myDelegate3 = matematik.Topla; // topla görevi verildi.
+            myDelegate3 += matematik.Carp; // çarp görevi eklendi.
 
-            var sonuc = myDelegate3(2, 3);
-            Console.WriteLine(sonuc);
+            var sonuc = myDelegate3(2, 3); // var sonuc değişkeni tanımlandı.
+            Console.WriteLine(sonuc); // sonuç yazdırdı.
+                                      // Ancak yukarıda hem toplama hem çarpma görevi verilmişti.
+                                      // Biz sadece sonuc değerini döndürdüğümü için,
+                                      // delege burada en son verilen görev olan ÇARP görevini yerine getirdi
+                                      // ve çarpma sonucunu döndürdü.
 
-            myDelegate2("Hello");
+            myDelegate2("Hello"); // Delege2 çalıştırılır
+                                  // string parametre aldığı için (message) ve (alert)'e "hello" yazdırıldı.
 
-            myDelegate();
+            myDelegate(); // Delege Çalıştırılır.
 
             Console.ReadLine();
         }
     }
 
-    public class CustomerManager // örnek bir operasyon içerisindeki işlemler void olduğu için void çalışır.
+    public class CustomerManager // örnek bir operasyon içerisindeki işlemler : void olduğu için void çalışır.
     {
         public void SendMessage() 
         {
             Console.WriteLine("Hello!");
         }
 
+        
         public void ShowAlert()
         {
             Console.WriteLine("Be careful!");
@@ -65,7 +71,7 @@ namespace Delegates // "Elçiler" yorum katmadan bilgi aktarırlar.
         }
     }
 
-    public class Matematik
+    public class Matematik // int parametre döndüren delegate için nesne.
     {
         public int Topla(int sayi1, int sayi2)
         {

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj",
         "projectName": "ReferenceAndValueType",
-        "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\ReferenceAndValueType.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Engin-Demirog-Dersleri\\ReferenceAndValueType\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

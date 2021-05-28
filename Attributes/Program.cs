@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Attributes // Öznitelikler 
+namespace Attributes // Öznitelikler (şartlar)
 {
     class Program
     {
